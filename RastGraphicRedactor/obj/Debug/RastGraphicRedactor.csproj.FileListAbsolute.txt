@@ -1,0 +1,39 @@
+I:\283\RastGraphicRedactor\bin\Debug\RastGraphicRedactor.exe.config
+I:\283\RastGraphicRedactor\bin\Debug\RastGraphicRedactor.exe
+I:\283\RastGraphicRedactor\bin\Debug\RastGraphicRedactor.pdb
+I:\283\RastGraphicRedactor\obj\Debug\RastGraphicRedactor.csprojAssemblyReference.cache
+I:\283\RastGraphicRedactor\obj\Debug\RastGraphicRedactor.Form1.resources
+I:\283\RastGraphicRedactor\obj\Debug\RastGraphicRedactor.Properties.Resources.resources
+I:\283\RastGraphicRedactor\obj\Debug\RastGraphicRedactor.csproj.GenerateResource.cache
+I:\283\RastGraphicRedactor\obj\Debug\RastGraphicRedactor.csproj.CoreCompileInputs.cache
+I:\283\RastGraphicRedactor\obj\Debug\RastGraphicRedactor.exe
+I:\283\RastGraphicRedactor\obj\Debug\RastGraphicRedactor.pdb
+C:\Users\Imertvec\Desktop\RastGraphicRedactor\bin\Debug\RastGraphicRedactor.exe.config
+C:\Users\Imertvec\Desktop\RastGraphicRedactor\bin\Debug\RastGraphicRedactor.exe
+C:\Users\Imertvec\Desktop\RastGraphicRedactor\bin\Debug\RastGraphicRedactor.pdb
+C:\Users\Imertvec\Desktop\RastGraphicRedactor\obj\Debug\RastGraphicRedactor.csprojAssemblyReference.cache
+C:\Users\Imertvec\Desktop\RastGraphicRedactor\obj\Debug\RastGraphicRedactor.Form1.resources
+C:\Users\Imertvec\Desktop\RastGraphicRedactor\obj\Debug\RastGraphicRedactor.Properties.Resources.resources
+C:\Users\Imertvec\Desktop\RastGraphicRedactor\obj\Debug\RastGraphicRedactor.csproj.GenerateResource.cache
+C:\Users\Imertvec\Desktop\RastGraphicRedactor\obj\Debug\RastGraphicRedactor.csproj.CoreCompileInputs.cache
+C:\Users\Imertvec\Desktop\RastGraphicRedactor\obj\Debug\RastGraphicRedactor.exe
+C:\Users\Imertvec\Desktop\RastGraphicRedactor\obj\Debug\RastGraphicRedactor.pdb
+C:\Users\stud\383\Ефимов и Яремко\Матысик\RastGraphicRedactor\obj\Debug\RastGraphicRedactor.csprojAssemblyReference.cache
+C:\Users\stud\383\Ефимов и Яремко\Матысик\RastGraphicRedactor\obj\Debug\RastGraphicRedactor.exe
+C:\Users\stud\383\Ефимов и Яремко\Матысик\RastGraphicRedactor\obj\Debug\RastGraphicRedactor.pdb
+C:\Users\stud\383\Ефимов и Яремко\Матысик\RastGraphicRedactor\bin\Debug\RastGraphicRedactor.exe.config
+C:\Users\stud\383\Ефимов и Яремко\Матысик\RastGraphicRedactor\bin\Debug\RastGraphicRedactor.exe
+C:\Users\stud\383\Ефимов и Яремко\Матысик\RastGraphicRedactor\bin\Debug\RastGraphicRedactor.pdb
+C:\Users\stud\383\Ефимов и Яремко\Матысик\RastGraphicRedactor\obj\Debug\RastGraphicRedactor.Form1.resources
+C:\Users\stud\383\Ефимов и Яремко\Матысик\RastGraphicRedactor\obj\Debug\RastGraphicRedactor.Properties.Resources.resources
+C:\Users\stud\383\Ефимов и Яремко\Матысик\RastGraphicRedactor\obj\Debug\RastGraphicRedactor.csproj.GenerateResource.cache
+C:\Users\Imertvec\source\repos\RastGraphicRedactor\bin\Debug\RastGraphicRedactor.exe.config
+C:\Users\Imertvec\source\repos\RastGraphicRedactor\bin\Debug\RastGraphicRedactor.exe
+C:\Users\Imertvec\source\repos\RastGraphicRedactor\bin\Debug\RastGraphicRedactor.pdb
+C:\Users\Imertvec\source\repos\RastGraphicRedactor\obj\Debug\RastGraphicRedactor.csprojAssemblyReference.cache
+C:\Users\Imertvec\source\repos\RastGraphicRedactor\obj\Debug\RastGraphicRedactor.Form1.resources
+C:\Users\Imertvec\source\repos\RastGraphicRedactor\obj\Debug\RastGraphicRedactor.Properties.Resources.resources
+C:\Users\Imertvec\source\repos\RastGraphicRedactor\obj\Debug\RastGraphicRedactor.csproj.GenerateResource.cache
+C:\Users\Imertvec\source\repos\RastGraphicRedactor\obj\Debug\RastGraphicRedactor.csproj.CoreCompileInputs.cache
+C:\Users\Imertvec\source\repos\RastGraphicRedactor\obj\Debug\RastGraphicRedactor.exe
+C:\Users\Imertvec\source\repos\RastGraphicRedactor\obj\Debug\RastGraphicRedactor.pdb
